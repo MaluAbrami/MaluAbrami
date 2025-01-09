@@ -3,8 +3,8 @@
 - Tenho 19 anos
 - Sou uma estudante universitária de Análise e Desenvolvimento de Sistemas
 - Atualmente estou no 4º semestre (6 semestres no total)
-- Ainda não tenho nenhuma experiência profissional na área
-- Estou em busca de uma oportunidade de estágio
+- GFT Starter 🎉❤
+- Estagiária de desenvolvimento Back-End na GFT Technologies💖
 
 # Habilidades
 ## Desenvolvido em projetos acadêmicos 
