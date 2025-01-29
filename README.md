@@ -1,6 +1,6 @@
 # ✨Bem-vindo(a) ao meu perfil✨
 ## 👋  Olá, me chamo Maria Luiza!
-- Tenho 19 anos
+- Tenho 20 anos
 - Sou uma estudante universitária de Análise e Desenvolvimento de Sistemas
 - Atualmente estou no 4º semestre (6 semestres no total)
 - GFT Starter 🎉❤
