@@ -2,7 +2,7 @@
 ## 👋  Olá, me chamo Maria Luiza!
 - Tenho 20 anos
 - Sou uma estudante universitária de Análise e Desenvolvimento de Sistemas
-- Atualmente estou no 5º semestre (6 semestres no total)
+- Atualmente estou no meu último semestre na faculdade
 - Eu sou GFT Starter 🎉❤
 - Estagiária de desenvolvimento Back-End na GFT Technologies💖
 
