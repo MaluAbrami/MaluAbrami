@@ -1,10 +1,8 @@
 # ✨Bem-vindo(a) ao meu perfil✨
 ## 👋  Olá, me chamo Maria Luiza!
 - Tenho 20 anos
-- Sou uma estudante universitária de Análise e Desenvolvimento de Sistemas
-- Atualmente estou no meu último semestre na faculdade
-- Eu sou GFT Starter 🎉❤
-- Estagiária de desenvolvimento Back-End na GFT Technologies💖
+- Sou uma estudante universitária do último período de Análise e Desenvolvimento de Sistemas
+- Atualmente atuo como Desenvolvedora Back-End na GFT Technologies💖
 
 # Habilidades
 ## Conhecimento Intermediário(com experiência em projetos reais)
