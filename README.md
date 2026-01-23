@@ -1,7 +1,7 @@
 # ✨ Bem-vindo(a) ao meu perfil!
 
 ## 👋 Olá! Eu sou a Maria Luiza
-🎓 Estudante do último período de **Análise e Desenvolvimento de Sistemas**  
+🎓 Formada em **Análise e Desenvolvimento de Sistemas**  
 💻 Atualmente atuando como **Desenvolvedora Back-End** na **GFT Technologies**  
 💡 Apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em soluções reais.
 
