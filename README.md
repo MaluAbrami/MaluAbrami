@@ -19,6 +19,7 @@ integrações e confiabilidade operacional.
 Tenho perfil analítico, responsabilidade técnica, boa comunicação em equipe e foco em 
 qualidade, escalabilidade e segurança das soluções. Embora especializada em backend, 
 mantenho visão sistêmica e abertura para atuação full-stack quando necessário.
+
 ---
 
 ## 🧠 Habilidades
