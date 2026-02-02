@@ -29,6 +29,7 @@ Tenho perfil analítico, alto senso de responsabilidade técnica e postura profi
 ![.NET](https://img.shields.io/badge/-dotnet-512BD4?logo=dotnet&logoColor=white)
 ![APIs REST](https://img.shields.io/badge/-REST%20APIs-000000)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 
 ### 🔹 Arquitetura & Boas Práticas
 - DDD (Domain-Driven Design)  
@@ -40,6 +41,7 @@ Tenho perfil analítico, alto senso de responsabilidade técnica e postura profi
 ### 🔹 Experiência Complementar
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/-PL/SQL-336791?logo=oracle&logoColor=fff)
 
 ### 🔹 Front-end (Visão Sistêmica)
