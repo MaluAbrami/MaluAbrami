@@ -5,6 +5,20 @@
 💻 Atualmente atuando como **Desenvolvedora Back-End** na **GFT Technologies**  
 💡 Apaixonada por tecnologia, aprendizado contínuo e por transformar ideias em soluções reais.
 
+## Sobre mim
+Desenvolvedora Backend formada em Análise e Desenvolvimento de Sistemas, com 
+experiência sólida no setor financeiro, atuando em projetos críticos de Empréstimos 
+Consignados e PIX para instituições bancárias atendidas pela GFT Technologies. 
+
+Possuo forte domínio em C#, .NET, APIs REST, DDD, CQRS e Clean Architecture, com 
+atuação direta em sistemas de alta disponibilidade, regras regulatórias e processamento 
+financeiro sensível. Atualmente, participo junto ao meu time da sustentação, evolução e 
+governança de todo o ecossistema PIX de um banco cliente, lidando com fluxos críticos, 
+integrações e confiabilidade operacional. 
+
+Tenho perfil analítico, responsabilidade técnica, boa comunicação em equipe e foco em 
+qualidade, escalabilidade e segurança das soluções. Embora especializada em backend, 
+mantenho visão sistêmica e abertura para atuação full-stack quando necessário.
 ---
 
 ## 🧠 Habilidades
