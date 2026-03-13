@@ -42,7 +42,7 @@ Tenho perfil analítico, alto senso de responsabilidade técnica e postura profi
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/-PL/SQL-336791?logo=oracle&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
 
 ### 🔹 Front-end (Visão Sistêmica)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
